@@ -148,7 +148,7 @@ const imageLightOptions: DropdownOption[] = [
 const imageDarkOptions: DropdownOption[] = [
 
     { text: 'Xonos.Host', value: 'https://i.imgur.com/JWc3BVJ.png' },
-    { text: 'Xonos.Host | Backup', value: 'https://i.imgur.com/JWc3BVJ.png' },
+    { text: 'Xonos.Host | Logo White', value: 'https://xonos.host/assets/img/logo-white.png' },
 ];
 
 const widthOptions = [
