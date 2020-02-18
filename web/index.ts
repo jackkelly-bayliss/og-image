@@ -143,12 +143,13 @@ const markdownOptions: DropdownOption[] = [
 
 const imageLightOptions: DropdownOption[] = [
     { text: 'XonosHost', value: 'https://i.imgur.com/JWc3BVJ.png' },
-    { text: 'XonosHost2', value: 'https://i.imgur.com/JWc3BVJ.png' },
+    { text: 'XonosHost2', value: 'https://cdn.jsdelivr.net/gh/remojansen/logo.ts@master/ts.svg' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
 
     { text: 'XonosHost', value: 'https://i.imgur.com/JWc3BVJ.png' },
+    { text: 'XonosHost2', value: 'https://cdn.jsdelivr.net/gh/remojansen/logo.ts@master/ts.svg' },
 ];
 
 const widthOptions = [
