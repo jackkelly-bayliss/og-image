@@ -142,12 +142,12 @@ const markdownOptions: DropdownOption[] = [
 ];
 
 const imageLightOptions: DropdownOption[] = [
-    { text: 'Xonos.Host | Circular', value: 'https://i.imgur.com/JWc3BVJ.png' },
+    { text: 'XonosHost', value: 'https://i.imgur.com/JWc3BVJ.png' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
 
-    { text: 'Xonos.Host | Circular', value: 'https://i.imgur.com/JWc3BVJ.png' },
+    { text: 'XonosHost', value: 'https://i.imgur.com/JWc3BVJ.png' },
 ];
 
 const widthOptions = [
