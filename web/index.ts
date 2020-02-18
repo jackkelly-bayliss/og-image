@@ -143,6 +143,7 @@ const markdownOptions: DropdownOption[] = [
 
 const imageLightOptions: DropdownOption[] = [
     { text: 'XonosHost', value: 'https://i.imgur.com/JWc3BVJ.png' },
+    { text: 'XonosHost2', value: 'https://i.imgur.com/JWc3BVJ.png' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
